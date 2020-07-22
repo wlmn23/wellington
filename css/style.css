@@ -62,6 +62,7 @@ nav a:active{
 
 .g-row img{
 	width: 100%; /*This makes all images in grids to be the size of their cell */
+	height: 100%;
 }
 
 .g-50{
